@@ -6,6 +6,7 @@ export const exo4 = async () => {
   /*
     CONSIGNE 4 : 
     afficher sous la forme d'une liste dans la page les pokemons avec leur nom
+    ----------
 
     url pour récupéer dynamiquement l'image d'un pokemon grâce à son index
     https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${pokemonIndex}.png

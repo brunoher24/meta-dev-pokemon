@@ -1,3 +1,3 @@
-import { exo2Corrige } from './exo-2-corrige.js';
+import { exo5 } from './exo-5.js';
 
-exo2Corrige();
+exo5();
