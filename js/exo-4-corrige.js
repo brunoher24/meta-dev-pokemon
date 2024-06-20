@@ -16,7 +16,6 @@ export const exo4Corrige = async () => {
     <li>
       <p>Nom : ${pokemons[i].name}</p>
       <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${index}.png" alt="">
-      <button>Voir infos</button>
     </li>`;
   }
   listePokemonsUl.innerHTML = innerHTML;
